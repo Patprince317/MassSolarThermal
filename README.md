@@ -1,2 +1,4 @@
 # MassSolarThermal
-An Econometric Analysis of Solar Thermal Installations in Massachusetts.
+Econometric Analysis of Solar Thermal Installations in Massachusetts.
+
+More to come shortly!
